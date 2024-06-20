@@ -1,0 +1,4 @@
+<resources>
+    <string name="start_button_text">Начать</string>
+    <string name="error_text">Что-то пошло не так: база данных пустая или в не доступа.</string>
+</resources>
